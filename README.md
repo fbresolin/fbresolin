@@ -1,3 +1,3 @@
 - Hi, I’m @fbresolin. I’m interested in working C# and .NET as my main focus for now. 
 - Im currently working (and always learning) with the C# language and focusing mainly in .NET framework, Entity Framework and SQL database management.
-- Im looking to colaborate mainly in this fields, but I like to code Python also.
+- Im looking to colaborate mainly in these fields, but I like to code Python also.
